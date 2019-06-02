@@ -2,10 +2,10 @@
 
 ## topics covered
 
-# tkinter
+### tkinter
 
-# lambda
+### lambda
 
-# basic airthmetic operations
+### basic airthmetic operations
 
 
